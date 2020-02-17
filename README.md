@@ -15,6 +15,7 @@
 
 - :orange_book: API docs: ``Coming soon``
 - :closed_book: Database: ``Coming soon``
+  - :open_book: [SQL creation file](https://github.com/league-of-devs/lendy-docs/blob/master/database/lendy.sql)
 - :green_book: Wireframes: ``Coming soon``
 - :blue_book: Requirements: ``Coming soon``
 
