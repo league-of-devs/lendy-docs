@@ -14,9 +14,11 @@
 ### :file_folder: Available docs
 
 - :orange_book: API docs: ``Coming soon``
-- :closed_book: Database: ``Coming soon``
+- :closed_book: Database:
   - :open_book: [SQL creation file](https://github.com/league-of-devs/lendy-docs/blob/master/database/lendy.sql)
-- :green_book: Wireframes: ``Coming soon``
+- :green_book: Wireframes:
+  - :open_book: [Web](https://github.com/league-of-devs/lendy-docs/blob/master/wireframes/Prot%C3%B3tipos%20-%20Web.pdf)
+  - :open_book: [Mobile](https://github.com/league-of-devs/lendy-docs/blob/master/wireframes/Prot%C3%B3tipos%20-%20App.pdf)
 - :blue_book: Requirements: ``Coming soon``
 
 ### :coffee: Credits
